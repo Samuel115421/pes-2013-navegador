@@ -1,0 +1,55 @@
+{
+  "name": "PES 2013 Navegador",
+  "short_name": "PES 2013",
+  "description": "PES 2013 ejecutándose en el navegador mediante PPSSPP WebAssembly",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "categories": ["games", "entertainment"],
+  "icons": [
+    {
+      "src": "icons/iconoweb.png",
+      "sizes": "48x48",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/iconoweb.png",
+      "sizes": "48x48",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/iconoweb.png",
+      "sizes": "48x48",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icons/iconoweb.png",
+      "sizes": "48x48",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "icons/screenshot-wide.png",
+      "sizes": "1280x800",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "PPSSPP Web – desktop view"
+    },
+    {
+      "src": "icons/screenshot-mobile.png",
+      "sizes": "390x844",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "PPSSPP Web – mobile view"
+    }
+  ],
+  "prefer_related_applications": false
+}

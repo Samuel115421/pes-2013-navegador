@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">PES 2013</title>
+  <desc id="desc">PES 2013 browser icon</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#071b55"/>
+      <stop offset="1" stop-color="#1269ae"/>
+    </linearGradient>
+    <linearGradient id="badge" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#b9d9ef"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="92" fill="url(#bg)"/>
+  <path d="M256 54 409 111v119c0 105-63 181-153 228-90-47-153-123-153-228V111z" fill="#07143d" stroke="#83c7f3" stroke-width="12"/>
+  <circle cx="256" cy="218" r="78" fill="url(#badge)"/>
+  <path d="m256 164 18 25 30-1-18 25 11 29-29-10-24 18 1-30-25-18 30-9z" fill="#1269ae"/>
+  <text x="256" y="340" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="64" font-weight="900" text-anchor="middle" letter-spacing="4">PES</text>
+  <text x="256" y="404" fill="#ccecff" font-family="Arial,Helvetica,sans-serif" font-size="52" font-weight="700" text-anchor="middle" letter-spacing="8">2013</text>
+</svg>
